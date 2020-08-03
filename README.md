@@ -5,7 +5,7 @@ This is a code that renders the person cloaking it invisible. It was written in 
 3. The cloak should not have any color common with that of the background or with whatever you are wearing.
 4. Please change the boundaries of the masks to suit your cloak's color (Default is Red)
 
-##Requirements
+## Requirements
 These are the minimum requirements to run this code.
 1. Python 2.7 or above
 2. Basic Python libraries (NumPy, OpenCV, MatplotLib)
